@@ -1,3 +1,3 @@
 # trunk
-Repositorio principal\n
+Repositorio principal<br>
 Escribo algo para que quede registrado
